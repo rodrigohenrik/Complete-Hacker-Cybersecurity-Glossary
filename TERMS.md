@@ -166,4 +166,4 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 
 # 💎 License
 
-This repository is under the [MIT license](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/blob/main/LICENSE).
+This repository is under the [MIT license](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/tree/main?tab=MIT-1-ov-file).
