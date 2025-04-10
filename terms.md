@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/"><img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /></a><br>
+</p>
+
 # 📚 Complete Hacker & Cybersecurity Glossary
 
 A comprehensive, categorized, and fully detailed glossary of hacking, cybersecurity, and digital threat terminology — perfect for security professionals, ethical hackers, students, and researchers.
@@ -8,16 +12,18 @@ This repository contains a meticulously organized list of 100+ cybersecurity and
 
 Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a seasoned pentester, this resource aims to boost your vocabulary and deepen your understanding of key concepts in information security and hacking culture.
 
-# Index
+# 📄 Index / Table of Contents
 
 - 🧠 [Hacker Profiles / Actor Types](#-hacker-profiles--actor-types)
 - 🧨 [Types of Cyber Attacks](#-types-of-cyber-attacks)
 - 💻 [Tools, Techniques & Hacking Methods](#-tools-techniques--hacking-methods)
 - 🧬 [Core Cybersecurity Concepts](#-core-cybersecurity-concepts)
-- 🛡️ [Defensive Technologies & Response](#-defensive-technologies--response)
+- 🚔 [Defensive Technologies & Response](#-defensive-technologies--response)
 - 🧪 [Malware Types & Malicious Software](#-malware-types--malicious-software)
 - 🌐 [Digital Environments & Networks](#-digital-environments--networks)
 - 📦 [Miscellaneous Relevant Terms](#-miscellaneous-relevant-terms)
+
+*TOC made with: [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/)*
 
 ## 🧠 Hacker Profiles / Actor Types
 
@@ -34,6 +40,8 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Red Team** | A simulated offensive group that mimics real-world attacker behavior to test organizational defenses and response. |
 | **Blue Team** | A defensive security team responsible for detecting, responding to, and mitigating security incidents and attacks. |
 | **Insider Threat** | A person within an organization (e.g., employee or contractor) who has authorized access and misuses it to harm the organization, intentionally or unintentionally. |
+
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ## 🧨 Types of Cyber Attacks
 
@@ -62,6 +70,8 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Code Injection** | The act of inserting malicious code into an application to change its behavior or extract data. |
 | **Reverse Shell** | A technique where a compromised system initiates a connection to the attacker, providing control over the machine. |
 
+[*Go to the index*](#-index--table-of-contents) 👆🏻
+
 ## 💻 Tools, Techniques & Hacking Methods
 
 | Term | Definition |
@@ -79,6 +89,8 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Aircrack-ng** | A suite of tools for auditing Wi-Fi security, capable of cracking WEP and WPA keys. |
 | **MITM Proxy** | A tool that intercepts and allows inspection and manipulation of network traffic between client and server. |
 | **Post Exploitation** | Actions taken after a successful compromise, including privilege escalation, persistence, and data exfiltration. |
+
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ## 🧬 Core Cybersecurity Concepts
 
@@ -99,7 +111,9 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Cyber Deception** | The use of traps, fake data, and misleading systems to confuse and study attackers. |
 | **Security Through Obscurity** | A controversial approach that relies on hiding system details as a security measure. |
 
-## 🛡️ Defensive Technologies & Response
+[*Go to the index*](#-index--table-of-contents) 👆🏻
+
+## 🚔 Defensive Technologies & Response
 
 | Term | Definition |
 |------|-----------|
@@ -112,16 +126,20 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Patch** | A software update designed to fix bugs, close vulnerabilities, or improve performance. |
 | **Incident Response** | A structured approach to identifying, managing, and recovering from security incidents. |
 
+[*Go to the index*](#-index--table-of-contents) 👆🏻
+
 ## 🧪 Malware Types & Malicious Software
 
 | Term | Definition |
 |------|-----------|
-| **Worm** | A standalone malware that replicates itself to spread to other systems, often without user interaction. |
+| **Worm** | A type of malware that can self-replicate without the need to infect specific program files. Worms typically spread through networks. |
 | **Trojan Horse** | Malicious software disguised as a legitimate program, tricking users into executing it. |
 | **Ransomware** | Malware that encrypts a victim’s files and demands payment for the decryption key. |
 | **Spyware** | Software that gathers information from a system without the user's knowledge or consent. |
 | **Adware** | Software that automatically delivers advertisements, often bundled with free applications. |
 | **Rogue Security Software** | Fake antivirus programs that scare users into purchasing unnecessary or harmful software. |
+
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ## 🌐 Digital Environments & Networks
 
@@ -132,13 +150,20 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Darknet** | Encrypted networks built on the internet, such as Tor or I2P, are used to maintain anonymity and resist surveillance. |
 | **Tor (The Onion Router)** | A privacy-focused network that anonymizes traffic by routing it through multiple encrypted relays. |
 
+[*Go to the index*](#-index--table-of-contents) 👆🏻
+
 ## 📦 Miscellaneous Relevant Terms
 
 | Term | Definition |
 |------|-----------|
-| **Bug Bounty** | A program offered by organizations to reward individuals who responsibly report security vulnerabilities. |
+| **Bug Bounty** | Program in which companies pay ethical hackers to find and report security vulnerabilities in their systems before they are maliciously exploited. |
 | **Dumpster Diving** | The act of retrieving discarded documents or hardware to uncover confidential information. |
 | **Shoulder Surfing** | Observing someone’s screen or keyboard to gain unauthorized information. |
 | **Pharming** | Redirecting users from legitimate websites to fraudulent ones to steal credentials. |
 | **Rainbow Table** | A precomputed table used to reverse cryptographic hash functions, typically to crack passwords. |
 
+[*Go to the index*](#-index--table-of-contents) 👆🏻
+
+# 💎 License
+
+This repository is under the [MIT license](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/blob/main/LICENSE).
