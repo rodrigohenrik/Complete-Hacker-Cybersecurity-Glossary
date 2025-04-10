@@ -10,14 +10,14 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 
 # Index
 
-- [🧠 Hacker Profiles / Actor Types](#-hacker-profiles--actor-types)
-- [🧨 Types of Cyber Attacks](#-types-of-cyber-attacks)
-- [🛠️ Tools, Techniques & Hacking Methods](#-tools-techniques--hacking-methods)
-- [🧬 Core Cybersecurity Concepts](#-core-cybersecurity-concepts)
-- [🛡️ Defensive Technologies & Response](#-defensive-technologies--response)
-- [🧪 Malware Types & Malicious Software](#-malware-types--malicious-software)
-- [🌐 Digital Environments & Networks](#-digital-environments--networks)
-- [📦 Miscellaneous Relevant Terms](#-miscellaneous-relevant-terms)
+- 🧠 [Hacker Profiles / Actor Types](#-hacker-profiles--actor-types)
+- 🧨 [Types of Cyber Attacks](#-types-of-cyber-attacks)
+- 💻 [Tools, Techniques & Hacking Methods](#-tools-techniques--hacking-methods)
+- 🧬 [Core Cybersecurity Concepts](#-core-cybersecurity-concepts)
+- 🛡️ [Defensive Technologies & Response](#-defensive-technologies--response)
+- 🧪 [Malware Types & Malicious Software](#-malware-types--malicious-software)
+- 🌐 [Digital Environments & Networks](#-digital-environments--networks)
+- 📦 [Miscellaneous Relevant Terms](#-miscellaneous-relevant-terms)
 
 ## 🧠 Hacker Profiles / Actor Types
 
@@ -34,8 +34,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Red Team** | A simulated offensive group that mimics real-world attacker behavior to test organizational defenses and response. |
 | **Blue Team** | A defensive security team responsible for detecting, responding to, and mitigating security incidents and attacks. |
 | **Insider Threat** | A person within an organization (e.g., employee or contractor) who has authorized access and misuses it to harm the organization, intentionally or unintentionally. |
-
----
 
 ## 🧨 Types of Cyber Attacks
 
@@ -64,9 +62,7 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Code Injection** | The act of inserting malicious code into an application to change its behavior or extract data. |
 | **Reverse Shell** | A technique where a compromised system initiates a connection to the attacker, providing control over the machine. |
 
----
-
-## 🛠️ Tools, Techniques & Hacking Methods
+## 💻 Tools, Techniques & Hacking Methods
 
 | Term | Definition |
 |------|-----------|
@@ -83,8 +79,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Aircrack-ng** | A suite of tools for auditing Wi-Fi security, capable of cracking WEP and WPA keys. |
 | **MITM Proxy** | A tool that intercepts and allows inspection and manipulation of network traffic between client and server. |
 | **Post Exploitation** | Actions taken after a successful compromise, including privilege escalation, persistence, and data exfiltration. |
-
----
 
 ## 🧬 Core Cybersecurity Concepts
 
@@ -105,8 +99,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Cyber Deception** | The use of traps, fake data, and misleading systems to confuse and study attackers. |
 | **Security Through Obscurity** | A controversial approach that relies on hiding system details as a security measure. |
 
----
-
 ## 🛡️ Defensive Technologies & Response
 
 | Term | Definition |
@@ -120,8 +112,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Patch** | A software update designed to fix bugs, close vulnerabilities, or improve performance. |
 | **Incident Response** | A structured approach to identifying, managing, and recovering from security incidents. |
 
----
-
 ## 🧪 Malware Types & Malicious Software
 
 | Term | Definition |
@@ -133,8 +123,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Adware** | Software that automatically delivers advertisements, often bundled with free applications. |
 | **Rogue Security Software** | Fake antivirus programs that scare users into purchasing unnecessary or harmful software. |
 
----
-
 ## 🌐 Digital Environments & Networks
 
 | Term | Definition |
@@ -143,8 +131,6 @@ Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a s
 | **Dark Web** | A subset of the deep web accessible only via specialized software like Tor, often associated with illegal activities. |
 | **Darknet** | Encrypted networks built on the internet, such as Tor or I2P, are used to maintain anonymity and resist surveillance. |
 | **Tor (The Onion Router)** | A privacy-focused network that anonymizes traffic by routing it through multiple encrypted relays. |
-
----
 
 ## 📦 Miscellaneous Relevant Terms
 
