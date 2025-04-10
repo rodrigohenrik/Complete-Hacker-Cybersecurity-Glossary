@@ -1,12 +1,28 @@
+<p align="center">
+    <a href="https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/"><img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /></a><br>
+</p>
+
 # 📚 Complete Hacker & Cybersecurity Glossary
 
 A comprehensive, categorized, and fully detailed glossary of hacking, cybersecurity, and digital threat terminology — perfect for security professionals, ethical hackers, students, and researchers.
 
 ## 🧠 About
 
-This repository contains a **meticulously organized list of 100+ cybersecurity and hacker-related terms**, translated into English and sorted into logical categories. Each entry includes a **clear, in-depth definition** designed to provide a practical and conceptual understanding of the topic.
+This repository contains a **meticulously organized list of 100+ cybersecurity and hacker-related terms**, sorted into logical categories. Each entry includes a **clear, in-depth definition** designed to provide a practical and conceptual understanding of the topic.
 
 Whether you're a **beginner learning the ropes**, a **cybersecurity enthusiast**, or a **seasoned pentester**, this resource aims to boost your vocabulary and deepen your understanding of key concepts in information security and hacking culture.
+
+## 📌 What’s inside:
+
+This repository includes a structured and detailed glossary of cybersecurity and hacking terms, divided into clear and practical categories for easier reference and learning
+
+> ⚠️ **This project is intended for educational and ethical purposes only.** Use responsibly.
+
+## Status
+
+**This project is constantly being updated**. Some content may be out of date. **(Last revision:** April 9, 2025)
+
+----
 
 ## 📂 Categories Included
 
@@ -50,6 +66,8 @@ You are free to:
 
 ### 🧠 Hacker Profiles / Actor Types
 
+Understand the different types of hackers and security teams — from ethical white hats and malicious black hats to insider threats, red teams, and more.
+
 | Term | Definition |
 |------|-----------|
 | **Hacker** | An individual skilled in computer systems, networks, or programming who seeks to understand and manipulate digital systems. The term may refer to both ethical and malicious actors depending on context. |
@@ -67,6 +85,8 @@ You are free to:
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ### 🧨 Types of Cyber Attacks
+
+Explore common and advanced cyber attack techniques, including phishing, DDoS, brute force, SQL injection, reverse shells, and supply chain attacks.
 
 | Term | Definition |
 |------|-----------|
@@ -97,6 +117,8 @@ You are free to:
 
 ### 💻 Tools, Techniques & Hacking Methods
 
+Get familiar with widely used tools and methodologies like exploit kits, rootkits, honeypots, keyloggers, sniffers, and logic bombs.
+
 | Term | Definition |
 |------|-----------|
 | **Exploit** | A piece of software or code that takes advantage of a vulnerability to perform unauthorized actions. |
@@ -116,6 +138,8 @@ You are free to:
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ### 🧬 Core Cybersecurity Concepts
+
+Grasp essential concepts such as encryption, decryption, hashing, vulnerabilities, zero-days, and digital forensics.
 
 | Term | Definition |
 |------|-----------|
@@ -138,6 +162,8 @@ You are free to:
 
 ### 🚔 Defensive Technologies & Response
 
+Learn about protective mechanisms including firewalls, VPNs, intrusion detection/prevention systems (IDS/IPS), patches, 2FA, and incident response strategies.
+
 | Term | Definition |
 |------|-----------|
 | **Firewall** | A security system that monitors and controls incoming and outgoing network traffic based on predefined rules. |
@@ -153,6 +179,8 @@ You are free to:
 
 ### 🧪 Malware Types & Malicious Software
 
+Identify and differentiate between types of malicious software such as worms, trojans, ransomware, spyware, adware, and rogue security tools.
+
 | Term | Definition |
 |------|-----------|
 | **Worm** | A type of malware that can self-replicate without the need to infect specific program files. Worms typically spread through networks. |
@@ -166,6 +194,8 @@ You are free to:
 
 ### 🌐 Digital Environments & Networks
 
+Dive into the structure of the deep web, dark web, Tor network, and darknet — critical layers of the internet often misunderstood.
+
 | Term | Definition |
 |------|-----------|
 | **Deep Web** | The portion of the web not indexed by search engines, including databases, internal networks, and academic repositories. |
@@ -176,6 +206,8 @@ You are free to:
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
 ### 📦 Miscellaneous Relevant Terms
+
+Additional must-know concepts like bug bounty programs, dumpster diving, shoulder surfing, pharming, and rainbow tables.
 
 | Term | Definition |
 |------|-----------|
