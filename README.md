@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/"><img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /></a><br>
+    <a href="https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/"><img src="https://i.imgur.com/lPp18uc.png" alt="Complete Hacker Cybersecurity Glossary" /></a><br>
 </p>
 
 # 📚 Complete Hacker & Cybersecurity Glossary
