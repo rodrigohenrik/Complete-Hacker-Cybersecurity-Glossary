@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/"><img src="https://i.imgur.com/lPp18uc.png" alt="Complete Hacker Cybersecurity Glossary" /></a><br>
+    <a href="https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary/"><img src="https://i.imgur.com/0FgbhZp.png" alt="Complete Hacker Cybersecurity Glossary" /></a><br>
 </p>
 
 # 📚 Complete Hacker & Cybersecurity Glossary
@@ -10,7 +10,7 @@ A comprehensive, categorized, and fully detailed glossary of hacking, cybersecur
 
 This repository contains a **meticulously organized list of 100+ cybersecurity and hacker-related terms**, sorted into logical categories. Each entry includes a **clear, in-depth definition** designed to provide a practical and conceptual understanding of the topic.
 
-Whether you're a **beginner learning the ropes**, a **cybersecurity enthusiast**, or a **seasoned pentester**, this resource aims to boost your vocabulary and deepen your understanding of key concepts in information security and hacking culture.
+Whether you're a beginner learning the ropes, a cybersecurity enthusiast, or a seasoned pentester, this resource aims to boost your vocabulary and deepen your understanding of key concepts in information security and hacking culture.
 
 ## 📌 What’s inside:
 
@@ -223,9 +223,8 @@ Additional must-know concepts like bug bounty programs, dumpster diving, shoulde
 
 Want to add more terms or categories? Found an outdated concept? Contributions are welcome!
 
-1. Fork this repo
-2. Add or modify entries in the glossary
-3. Submit a pull request
+1. Add or modify entries in the glossary
+2. Submit a pull request
 
 ## 🔗 Related Topics
 
