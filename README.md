@@ -219,13 +219,6 @@ Additional must-know concepts like bug bounty programs, dumpster diving, shoulde
 
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
-## 🤝 Contributing
-
-Want to add more terms or categories? Found an outdated concept? Contributions are welcome!
-
-1. Add or modify entries in the glossary
-2. Submit a pull request
-
 ## 🔗 Related Topics
 
 - [Ethical Hacking Roadmap](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap)
